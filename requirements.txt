@@ -4,3 +4,4 @@ Pillow==10.2.0
 celery==5.3.6
 stripe==4.0.2
 weasyprint==56.1
+redis==5.0.1
